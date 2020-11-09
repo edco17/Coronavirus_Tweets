@@ -54,9 +54,9 @@ This final model add the Extremely Negative and Positive categories as the model
 
 We can see an increase in the accuracy of this model, but and increase in the overfitting
 
-![alt text](10.JPG)
+![alt text](images/10.JPG)
 
-![alt text](11.JPG)
+![alt text](images/11.JPG)
 
 All metrics increase with this model, this is thanks to the standardize and elimination of stopwords. This model may be better with an architecture change or an increase in the dataset.
 
